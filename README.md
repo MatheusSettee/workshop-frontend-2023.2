@@ -4,5 +4,5 @@
 Projeto feito em react para consumir uma Api em Starwars.
 
 ## Execucao do projeto:
-npm intall
+npm install
 npm run dev 
